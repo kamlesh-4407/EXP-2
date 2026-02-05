@@ -16,7 +16,7 @@ If the goal is not met, contributors can withdraw their funds.
 
 
 ## Program:
-```
+```solidity
 // SPDX-License-Identifier: MIT
 pragma solidity ^0.8.20;
 
@@ -67,15 +67,14 @@ Users can contribute ETH to the campaign.
 
 If the goal is met, the creator can withdraw funds.
 
+<img width="1855" height="1003" alt="image" src="https://github.com/user-attachments/assets/1024995b-7cb6-46cd-b44b-6bd1cd00edd6" />
 
 If the goal is not met, contributors can claim a refund.
 
-
+<img width="1855" height="996" alt="image" src="https://github.com/user-attachments/assets/9b5aeabb-7af1-4e33-bd8d-7c5bfe7a45da" />
 
 # High-Level Overview:
 Teaches decentralized fundraising.
-
-
 Avoids fraud by ensuring funds are only transferred if the goal is met.
 
 # RESULT: 
